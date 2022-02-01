@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiffanygoh
 - 👀 I’m interested in coding and building my own game and 3d modelling
-- 🌱 I’m currently python and 3d nmax
+- 🌱 I’m currently python and 3d max
 - 📫 How to reach me @paristifny@gmail.com
 
 <!---
